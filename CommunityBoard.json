@@ -33,7 +33,7 @@
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "Community/Instagram/Test.png",
+      "ImageName": "Community/Instagram/PlaceHolder.jpg",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
@@ -76,24 +76,24 @@
   ],
   "Videos": [
     {
-      "BlobName": "real.mp4",
-      "Title": "CoffeeVault for 2022???",
-      "Description": "REAL!??!?!",
-      "ThumbnailBlobName": "IDK.png",
+      "BlobName": "Ded.mp4",
+      "Title": "Test",
+      "Description": "Test",
+      "ThumbnailBlobName": "Community/Videos/PlaceHolder.jpg",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "u.webm",
-      "Title": "November 15th",
-      "Description": "REAL!??!?!",
-      "ThumbnailBlobName": "IDK.png",
+      "BlobName": "Love Myself.mp4",
+      "Title": "Love Myself Girl",
+      "Description": "Women Are Scary",
+      "ThumbnailBlobName": "Community/Videos/Love Myself.png",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
       "BlobName": "deez.mp4",
       "Title": "deez",
       "Description": "yes",
-      "ThumbnailBlobName": "Profile.png",
+      "ThumbnailBlobName": "Community/Videos/deez.png",
       "SourceUrl": "https://www.youtube.com/watch?v=t0JyCdk5ymo"
     }
   ]
