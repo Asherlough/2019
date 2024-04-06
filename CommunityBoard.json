@@ -2,7 +2,7 @@
   "FeaturedPlayer": {
     "Id": 69,
     "TitleOverride": "Featured Lack of Player",
-    "UrlOverride": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    "UrlOverride": "https://cdn.discordapp.com/attachments/772155559540686848/1226302890180608000/PlaceHolder.jpg?ex=66244690&is=6611d190&hm=acbaf5596d839e1f3d2c7bfe5dad0cc44dc592a7b75916871fde1b6faf0b7873&"
   },
   "FeaturedRoomGroup": {
     "Name": "November Highlights",
@@ -21,19 +21,19 @@
   },
   "CurrentAnnouncement": {
     "Message": "kasper click more info",
-    "MoreInfoUrl": "https://www.youtube.com/watch?v=hr8xus6xi_8"
+    "MoreInfoUrl": "https://cdn.discordapp.com/attachments/772155559540686848/1226302890180608000/PlaceHolder.jpg?ex=66244690&is=6611d190&hm=acbaf5596d839e1f3d2c7bfe5dad0cc44dc592a7b75916871fde1b6faf0b7873&"
   },
   "InstagramImages": [
     {
-      "ImageName": "Community/Instagram/AAAAAAA.png",
+      "ImageName": "Community/Instagram/SRankREAL.jpg",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "Community/Instagram/BIGSMILE.png",
+      "ImageName": "Community/Instagram/BETAGOBSREAL.png",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "Community/Instagram/PlaceHolder.jpg",
+      "ImageName": "Community/Instagram/GayNess.png",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
@@ -49,7 +49,7 @@
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
-      "ImageName": "Community/Instagram/Imalluponyou.png",
+      "ImageName": "Community/Instagram/PlaceHolder.jpg",
       "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
     },
     {
@@ -80,21 +80,21 @@
       "Title": "Test",
       "Description": "Test",
       "ThumbnailBlobName": "Community/Videos/PlaceHolder.jpg",
-      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      "SourceUrl": "https://cdn.discordapp.com/attachments/772155559540686848/1226302890180608000/PlaceHolder.jpg?ex=66244690&is=6611d190&hm=acbaf5596d839e1f3d2c7bfe5dad0cc44dc592a7b75916871fde1b6faf0b7873&"
     },
     {
       "BlobName": "Love Myself.mp4",
       "Title": "Love Myself Girl",
       "Description": "Women Are Scary",
       "ThumbnailBlobName": "Community/Videos/Love Myself.png",
-      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      "SourceUrl": "https://cdn.discordapp.com/attachments/772155559540686848/1226302890180608000/PlaceHolder.jpg?ex=66244690&is=6611d190&hm=acbaf5596d839e1f3d2c7bfe5dad0cc44dc592a7b75916871fde1b6faf0b7873&"
     },
     {
       "BlobName": "deez.mp4",
       "Title": "deez",
       "Description": "yes",
       "ThumbnailBlobName": "Community/Videos/deez.png",
-      "SourceUrl": "https://www.youtube.com/watch?v=t0JyCdk5ymo"
+      "SourceUrl": "https://cdn.discordapp.com/attachments/772155559540686848/1226302890180608000/PlaceHolder.jpg?ex=66244690&is=6611d190&hm=acbaf5596d839e1f3d2c7bfe5dad0cc44dc592a7b75916871fde1b6faf0b7873&"
     }
   ]
 }
